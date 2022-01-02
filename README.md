@@ -1,2 +1,2 @@
 # rsschool-cv
-https://maxkochetkov.github.io/rsschool-cv/CV.md
+https://maxkochetkov.github.io/rsschool-cv/cv.md
