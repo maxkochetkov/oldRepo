@@ -1,4 +1,4 @@
-![one](one.png "one")
+![one](one.bmp "one")
 # Kochetkov Maxim
 ====
 ### About Me:
